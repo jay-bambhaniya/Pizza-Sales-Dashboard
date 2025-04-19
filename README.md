@@ -3,7 +3,6 @@ This project involves the creation of an interactive Power BI dashboard to analy
 
 # KPI Requirements
 Total Pizzas Sold
-
 Total Orders
 
 Total Table Orders
