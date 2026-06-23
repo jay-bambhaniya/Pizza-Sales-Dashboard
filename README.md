@@ -17,13 +17,16 @@ Restaurant management required a centralized reporting solution to:
 
 ## Dashboard Preview
 
-### Monthly Dashboard
+### Home Page
+<img width="1347" height="757" alt="image" src="https://github.com/user-attachments/assets/cacf7c15-613c-4e50-84a2-eb89fa7f417a" />
+
+### Monthly Sales Dashboard
 <img width="1327" height="746" alt="Screenshot 2025-04-02 223311" src="https://github.com/user-attachments/assets/8031d723-3945-453d-a62d-5d0b9b548ef5" />
 
-### Yearly Dashboard
+### Yearly Sales Dashboard
 <img width="1324" height="746" alt="Screenshot 2025-04-02 223352" src="https://github.com/user-attachments/assets/7a429e6c-8cd6-4f26-8fab-c2f14c98c5f9" />
 
-### Best & Worst Pizzas Dashboard
+### Best & Worst Performing Pizzas Dashboard
 <img width="1324" height="741" alt="Screenshot 2025-04-02 223527" src="https://github.com/user-attachments/assets/8163a061-4f2d-413a-b6f5-ca316b40780d" />
 
 ### Custom Tooltips
