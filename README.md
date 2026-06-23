@@ -67,7 +67,7 @@ Displayed when hovering over a specific date-hour combination in the sales heatm
 ## Key Performance Indicators (KPIs)
 
 | KPI | Description |
-|------|-------------|
+|-----|-------------|
 | Total Revenue | Total revenue generated from pizza sales. |
 | Total Orders | Total number of customer orders placed. |
 | Total Pizzas Sold | Total quantity of pizzas sold. |
